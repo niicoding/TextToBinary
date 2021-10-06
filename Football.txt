@@ -1,0 +1,7 @@
+Albert,     0,      RB, 70, 210, 5.4325,    Eagles,     false
+Hoffman,    5,      WR, 73, 478, 6.7,       Packers,    true
+Alexander,  99,     QB, 89, 430, 5.422,     Giants,     true
+Shulgin,    6,      LB, 70, 256, 4.45,      Falcons,    false
+Carl,       13,     KR, 42, 344, 4.7,       Rams,       false
+Sagan,      14,     SA, 54, 432, 3.2887,    Dolphins,   true
+
